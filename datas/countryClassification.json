@@ -1,0 +1,952 @@
+[
+    {
+        "country": "Tuvalu",
+        "humanDevelopmentIndex": 0,
+        "pop2022": "11.3120"
+    },
+    {
+        "country": "Somalia",
+        "humanDevelopmentIndex": 0,
+        "pop2022": "17597.5110"
+    },
+    {
+        "country": "Niger",
+        "humanDevelopmentIndex": "0.3540",
+        "pop2022": "26207.9770"
+    },
+    {
+        "country": "Central African Republic",
+        "humanDevelopmentIndex": "0.3670",
+        "pop2022": "5579.1440"
+    },
+    {
+        "country": "South Sudan",
+        "humanDevelopmentIndex": "0.3880",
+        "pop2022": "10913.1640"
+    },
+    {
+        "country": "Chad",
+        "humanDevelopmentIndex": "0.4040",
+        "pop2022": "17723.3150"
+    },
+    {
+        "country": "Burundi",
+        "humanDevelopmentIndex": "0.4170",
+        "pop2022": "12889.5760"
+    },
+    {
+        "country": "Sierra Leone",
+        "humanDevelopmentIndex": "0.4190",
+        "pop2022": "8605.7180"
+    },
+    {
+        "country": "Burkina Faso",
+        "humanDevelopmentIndex": "0.4230",
+        "pop2022": "22673.7620"
+    },
+    {
+        "country": "Mali",
+        "humanDevelopmentIndex": "0.4270",
+        "pop2022": "22593.5900"
+    },
+    {
+        "country": "Liberia",
+        "humanDevelopmentIndex": "0.4350",
+        "pop2022": "5302.6810"
+    },
+    {
+        "country": "Mozambique",
+        "humanDevelopmentIndex": "0.4370",
+        "pop2022": "32969.5180"
+    },
+    {
+        "country": "Eritrea",
+        "humanDevelopmentIndex": "0.4400",
+        "pop2022": "3684.0320"
+    },
+    {
+        "country": "Yemen",
+        "humanDevelopmentIndex": "0.4520",
+        "pop2022": "33696.6140"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "humanDevelopmentIndex": "0.4550",
+        "pop2022": "2105.5660"
+    },
+    {
+        "country": "DR Congo",
+        "humanDevelopmentIndex": "0.4570",
+        "pop2022": "99010.2120"
+    },
+    {
+        "country": "Guinea",
+        "humanDevelopmentIndex": "0.4590",
+        "pop2022": "13859.3410"
+    },
+    {
+        "country": "Gambia",
+        "humanDevelopmentIndex": "0.4600",
+        "pop2022": "2705.9920"
+    },
+    {
+        "country": "Ethiopia",
+        "humanDevelopmentIndex": "0.4630",
+        "pop2022": "123379.9240"
+    },
+    {
+        "country": "Djibouti",
+        "humanDevelopmentIndex": "0.4760",
+        "pop2022": "1120.8490"
+    },
+    {
+        "country": "Malawi",
+        "humanDevelopmentIndex": "0.4770",
+        "pop2022": "20405.3170"
+    },
+    {
+        "country": "Ivory Coast",
+        "humanDevelopmentIndex": "0.4920",
+        "pop2022": "28160.5420"
+    },
+    {
+        "country": "Haiti",
+        "humanDevelopmentIndex": "0.4980",
+        "pop2022": "11584.9960"
+    },
+    {
+        "country": "Afghanistan",
+        "humanDevelopmentIndex": "0.4980",
+        "pop2022": "41128.7710"
+    },
+    {
+        "country": "Sudan",
+        "humanDevelopmentIndex": "0.5020",
+        "pop2022": "46874.2040"
+    },
+    {
+        "country": "Comoros",
+        "humanDevelopmentIndex": "0.5030",
+        "pop2022": "836.7740"
+    },
+    {
+        "country": "Togo",
+        "humanDevelopmentIndex": "0.5030",
+        "pop2022": "8848.6990"
+    },
+    {
+        "country": "Senegal",
+        "humanDevelopmentIndex": "0.5050",
+        "pop2022": "17316.4490"
+    },
+    {
+        "country": "Benin",
+        "humanDevelopmentIndex": "0.5150",
+        "pop2022": "13352.8640"
+    },
+    {
+        "country": "Uganda",
+        "humanDevelopmentIndex": "0.5160",
+        "pop2022": "47249.5850"
+    },
+    {
+        "country": "Madagascar",
+        "humanDevelopmentIndex": "0.5190",
+        "pop2022": "29611.7140"
+    },
+    {
+        "country": "Lesotho",
+        "humanDevelopmentIndex": "0.5200",
+        "pop2022": "2305.8250"
+    },
+    {
+        "country": "Mauritania",
+        "humanDevelopmentIndex": "0.5200",
+        "pop2022": "4736.1390"
+    },
+    {
+        "country": "Rwanda",
+        "humanDevelopmentIndex": "0.5240",
+        "pop2022": "13776.6980"
+    },
+    {
+        "country": "Nigeria",
+        "humanDevelopmentIndex": "0.5320",
+        "pop2022": "218541.2120"
+    },
+    {
+        "country": "Zimbabwe",
+        "humanDevelopmentIndex": "0.5350",
+        "pop2022": "16320.5370"
+    },
+    {
+        "country": "Syria",
+        "humanDevelopmentIndex": "0.5360",
+        "pop2022": "22125.2490"
+    },
+    {
+        "country": "Tanzania",
+        "humanDevelopmentIndex": "0.5380",
+        "pop2022": "65497.7480"
+    },
+    {
+        "country": "Papua New Guinea",
+        "humanDevelopmentIndex": "0.5440",
+        "pop2022": "10142.6190"
+    },
+    {
+        "country": "Solomon Islands",
+        "humanDevelopmentIndex": "0.5460",
+        "pop2022": "724.2730"
+    },
+    {
+        "country": "Cameroon",
+        "humanDevelopmentIndex": "0.5560",
+        "pop2022": "27914.5360"
+    },
+    {
+        "country": "Pakistan",
+        "humanDevelopmentIndex": "0.5620",
+        "pop2022": "235824.8620"
+    },
+    {
+        "country": "Nepal",
+        "humanDevelopmentIndex": "0.5740",
+        "pop2022": "30547.5800"
+    },
+    {
+        "country": "Myanmar",
+        "humanDevelopmentIndex": "0.5780",
+        "pop2022": "54179.3060"
+    },
+    {
+        "country": "Angola",
+        "humanDevelopmentIndex": "0.5810",
+        "pop2022": "35588.9870"
+    },
+    {
+        "country": "Cambodia",
+        "humanDevelopmentIndex": "0.5820",
+        "pop2022": "16767.8420"
+    },
+    {
+        "country": "Eswatini",
+        "humanDevelopmentIndex": "0.5880",
+        "pop2022": "1201.6700"
+    },
+    {
+        "country": "Zambia",
+        "humanDevelopmentIndex": "0.5880",
+        "pop2022": "20017.6750"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "humanDevelopmentIndex": "0.5890",
+        "pop2022": "227.3800"
+    },
+    {
+        "country": "Kenya",
+        "humanDevelopmentIndex": "0.5900",
+        "pop2022": "54027.4870"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "humanDevelopmentIndex": "0.5910",
+        "pop2022": "1674.9080"
+    },
+    {
+        "country": "Ghana",
+        "humanDevelopmentIndex": "0.5920",
+        "pop2022": "33475.8700"
+    },
+    {
+        "country": "Laos",
+        "humanDevelopmentIndex": "0.6010",
+        "pop2022": "7529.4750"
+    },
+    {
+        "country": "Vanuatu",
+        "humanDevelopmentIndex": "0.6030",
+        "pop2022": "326.7400"
+    },
+    {
+        "country": "Republic of the Congo",
+        "humanDevelopmentIndex": "0.6060",
+        "pop2022": "5970.4240"
+    },
+    {
+        "country": "Bangladesh",
+        "humanDevelopmentIndex": "0.6080",
+        "pop2022": "171186.3720"
+    },
+    {
+        "country": "Kiribati",
+        "humanDevelopmentIndex": "0.6120",
+        "pop2022": "131.2320"
+    },
+    {
+        "country": "Bhutan",
+        "humanDevelopmentIndex": "0.6120",
+        "pop2022": "782.4550"
+    },
+    {
+        "country": "Honduras",
+        "humanDevelopmentIndex": "0.6170",
+        "pop2022": "10432.8600"
+    },
+    {
+        "country": "Timor-Leste",
+        "humanDevelopmentIndex": "0.6250",
+        "pop2022": "1341.2960"
+    },
+    {
+        "country": "Micronesia",
+        "humanDevelopmentIndex": "0.6270",
+        "pop2022": "114.1640"
+    },
+    {
+        "country": "India",
+        "humanDevelopmentIndex": "0.6400",
+        "pop2022": "1417173.1730"
+    },
+    {
+        "country": "Namibia",
+        "humanDevelopmentIndex": "0.6470",
+        "pop2022": "2567.0120"
+    },
+    {
+        "country": "Tajikistan",
+        "humanDevelopmentIndex": "0.6500",
+        "pop2022": "9952.7870"
+    },
+    {
+        "country": "Guatemala",
+        "humanDevelopmentIndex": "0.6500",
+        "pop2022": "17843.9080"
+    },
+    {
+        "country": "Cape Verde",
+        "humanDevelopmentIndex": "0.6540",
+        "pop2022": "593.1490"
+    },
+    {
+        "country": "Guyana",
+        "humanDevelopmentIndex": "0.6540",
+        "pop2022": "808.7260"
+    },
+    {
+        "country": "Nicaragua",
+        "humanDevelopmentIndex": "0.6580",
+        "pop2022": "6948.3920"
+    },
+    {
+        "country": "Morocco",
+        "humanDevelopmentIndex": "0.6670",
+        "pop2022": "37457.9710"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "humanDevelopmentIndex": "0.6720",
+        "pop2022": "6630.6230"
+    },
+    {
+        "country": "El Salvador",
+        "humanDevelopmentIndex": "0.6740",
+        "pop2022": "6336.3920"
+    },
+    {
+        "country": "Iraq",
+        "humanDevelopmentIndex": "0.6850",
+        "pop2022": "44496.1220"
+    },
+    {
+        "country": "Palestine",
+        "humanDevelopmentIndex": "0.6860",
+        "pop2022": "5250.0720"
+    },
+    {
+        "country": "Bolivia",
+        "humanDevelopmentIndex": "0.6930",
+        "pop2022": "12224.1100"
+    },
+    {
+        "country": "Vietnam",
+        "humanDevelopmentIndex": "0.6940",
+        "pop2022": "98186.8560"
+    },
+    {
+        "country": "Indonesia",
+        "humanDevelopmentIndex": "0.6940",
+        "pop2022": "275501.3390"
+    },
+    {
+        "country": "Egypt",
+        "humanDevelopmentIndex": "0.6960",
+        "pop2022": "110990.1030"
+    },
+    {
+        "country": "South Africa",
+        "humanDevelopmentIndex": "0.6990",
+        "pop2022": "59893.8850"
+    },
+    {
+        "country": "Philippines",
+        "humanDevelopmentIndex": "0.6990",
+        "pop2022": "115559.0090"
+    },
+    {
+        "country": "Moldova",
+        "humanDevelopmentIndex": "0.7000",
+        "pop2022": "3272.9960"
+    },
+    {
+        "country": "Gabon",
+        "humanDevelopmentIndex": "0.7020",
+        "pop2022": "2388.9920"
+    },
+    {
+        "country": "Paraguay",
+        "humanDevelopmentIndex": "0.7020",
+        "pop2022": "6780.7440"
+    },
+    {
+        "country": "Turkmenistan",
+        "humanDevelopmentIndex": "0.7060",
+        "pop2022": "6430.7700"
+    },
+    {
+        "country": "Libya",
+        "humanDevelopmentIndex": "0.7060",
+        "pop2022": "6812.3410"
+    },
+    {
+        "country": "Marshall Islands",
+        "humanDevelopmentIndex": "0.7080",
+        "pop2022": "41.5690"
+    },
+    {
+        "country": "Belize",
+        "humanDevelopmentIndex": "0.7080",
+        "pop2022": "405.2720"
+    },
+    {
+        "country": "Uzbekistan",
+        "humanDevelopmentIndex": "0.7100",
+        "pop2022": "34627.6520"
+    },
+    {
+        "country": "Samoa",
+        "humanDevelopmentIndex": "0.7130",
+        "pop2022": "222.3820"
+    },
+    {
+        "country": "Dominica",
+        "humanDevelopmentIndex": "0.7150",
+        "pop2022": "72.7370"
+    },
+    {
+        "country": "Maldives",
+        "humanDevelopmentIndex": "0.7170",
+        "pop2022": "523.7870"
+    },
+    {
+        "country": "Botswana",
+        "humanDevelopmentIndex": "0.7170",
+        "pop2022": "2630.2960"
+    },
+    {
+        "country": "Suriname",
+        "humanDevelopmentIndex": "0.7200",
+        "pop2022": "618.0400"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "humanDevelopmentIndex": "0.7230",
+        "pop2022": "103.9480"
+    },
+    {
+        "country": "Tonga",
+        "humanDevelopmentIndex": "0.7260",
+        "pop2022": "106.8580"
+    },
+    {
+        "country": "Jamaica",
+        "humanDevelopmentIndex": "0.7320",
+        "pop2022": "2827.3770"
+    },
+    {
+        "country": "Jordan",
+        "humanDevelopmentIndex": "0.7350",
+        "pop2022": "11285.8690"
+    },
+    {
+        "country": "Tunisia",
+        "humanDevelopmentIndex": "0.7350",
+        "pop2022": "12356.1170"
+    },
+    {
+        "country": "Dominican Republic",
+        "humanDevelopmentIndex": "0.7360",
+        "pop2022": "11228.8210"
+    },
+    {
+        "country": "Fiji",
+        "humanDevelopmentIndex": "0.7410",
+        "pop2022": "929.7660"
+    },
+    {
+        "country": "Mongolia",
+        "humanDevelopmentIndex": "0.7410",
+        "pop2022": "3398.3660"
+    },
+    {
+        "country": "Saint Lucia",
+        "humanDevelopmentIndex": "0.7470",
+        "pop2022": "179.8570"
+    },
+    {
+        "country": "Colombia",
+        "humanDevelopmentIndex": "0.7470",
+        "pop2022": "51874.0240"
+    },
+    {
+        "country": "Peru",
+        "humanDevelopmentIndex": "0.7500",
+        "pop2022": "34049.5880"
+    },
+    {
+        "country": "Ukraine",
+        "humanDevelopmentIndex": "0.7510",
+        "pop2022": "39701.7390"
+    },
+    {
+        "country": "Ecuador",
+        "humanDevelopmentIndex": "0.7520",
+        "pop2022": 18001
+    },
+    {
+        "country": "China",
+        "humanDevelopmentIndex": "0.7520",
+        "pop2022": "1425887.3370"
+    },
+    {
+        "country": "Algeria",
+        "humanDevelopmentIndex": "0.7540",
+        "pop2022": "44903.2250"
+    },
+    {
+        "country": "Armenia",
+        "humanDevelopmentIndex": "0.7550",
+        "pop2022": "2780.4690"
+    },
+    {
+        "country": "Thailand",
+        "humanDevelopmentIndex": "0.7550",
+        "pop2022": "71697.0300"
+    },
+    {
+        "country": "Lebanon",
+        "humanDevelopmentIndex": "0.7570",
+        "pop2022": "5489.7390"
+    },
+    {
+        "country": "Azerbaijan",
+        "humanDevelopmentIndex": "0.7570",
+        "pop2022": "10358.0740"
+    },
+    {
+        "country": "Brazil",
+        "humanDevelopmentIndex": "0.7590",
+        "pop2022": "215313.4980"
+    },
+    {
+        "country": "Venezuela",
+        "humanDevelopmentIndex": "0.7610",
+        "pop2022": "28301.6960"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "humanDevelopmentIndex": "0.7680",
+        "pop2022": "3233.5260"
+    },
+    {
+        "country": "Sri Lanka",
+        "humanDevelopmentIndex": "0.7700",
+        "pop2022": "21832.1430"
+    },
+    {
+        "country": "Grenada",
+        "humanDevelopmentIndex": "0.7720",
+        "pop2022": "125.4380"
+    },
+    {
+        "country": "Mexico",
+        "humanDevelopmentIndex": "0.7740",
+        "pop2022": "127504.1250"
+    },
+    {
+        "country": "Cuba",
+        "humanDevelopmentIndex": "0.7770",
+        "pop2022": "11212.1910"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "humanDevelopmentIndex": "0.7780",
+        "pop2022": "47.6570"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "humanDevelopmentIndex": "0.7800",
+        "pop2022": "93.7630"
+    },
+    {
+        "country": "Georgia",
+        "humanDevelopmentIndex": "0.7800",
+        "pop2022": "3744.3850"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "humanDevelopmentIndex": "0.7840",
+        "pop2022": "1531.0440"
+    },
+    {
+        "country": "Albania",
+        "humanDevelopmentIndex": "0.7850",
+        "pop2022": "2842.3210"
+    },
+    {
+        "country": "Serbia",
+        "humanDevelopmentIndex": "0.7870",
+        "pop2022": "7221.3650"
+    },
+    {
+        "country": "Panama",
+        "humanDevelopmentIndex": "0.7890",
+        "pop2022": "4408.5810"
+    },
+    {
+        "country": "Mauritius",
+        "humanDevelopmentIndex": "0.7900",
+        "pop2022": "1299.4690"
+    },
+    {
+        "country": "Türkiye",
+        "humanDevelopmentIndex": "0.7910",
+        "pop2022": "85341.2410"
+    },
+    {
+        "country": "Costa Rica",
+        "humanDevelopmentIndex": "0.7940",
+        "pop2022": "5180.8290"
+    },
+    {
+        "country": "Seychelles",
+        "humanDevelopmentIndex": "0.7970",
+        "pop2022": "107.1180"
+    },
+    {
+        "country": "Palau",
+        "humanDevelopmentIndex": "0.7980",
+        "pop2022": "18.0550"
+    },
+    {
+        "country": "Iran",
+        "humanDevelopmentIndex": "0.7980",
+        "pop2022": "88550.5700"
+    },
+    {
+        "country": "Barbados",
+        "humanDevelopmentIndex": "0.8000",
+        "pop2022": "281.6350"
+    },
+    {
+        "country": "Kazakhstan",
+        "humanDevelopmentIndex": "0.8000",
+        "pop2022": "19397.9980"
+    },
+    {
+        "country": "Malaysia",
+        "humanDevelopmentIndex": "0.8020",
+        "pop2022": "33938.2210"
+    },
+    {
+        "country": "Kuwait",
+        "humanDevelopmentIndex": "0.8030",
+        "pop2022": "4268.8730"
+    },
+    {
+        "country": "Uruguay",
+        "humanDevelopmentIndex": "0.8040",
+        "pop2022": "3422.7940"
+    },
+    {
+        "country": "Bahamas",
+        "humanDevelopmentIndex": "0.8070",
+        "pop2022": "409.9840"
+    },
+    {
+        "country": "Belarus",
+        "humanDevelopmentIndex": "0.8080",
+        "pop2022": "9534.9540"
+    },
+    {
+        "country": "Romania",
+        "humanDevelopmentIndex": "0.8110",
+        "pop2022": "19659.2670"
+    },
+    {
+        "country": "Bulgaria",
+        "humanDevelopmentIndex": "0.8130",
+        "pop2022": "6781.9530"
+    },
+    {
+        "country": "Montenegro",
+        "humanDevelopmentIndex": "0.8140",
+        "pop2022": "627.0820"
+    },
+    {
+        "country": "Russia",
+        "humanDevelopmentIndex": "0.8160",
+        "pop2022": "144713.3140"
+    },
+    {
+        "country": "Oman",
+        "humanDevelopmentIndex": "0.8210",
+        "pop2022": "4576.2980"
+    },
+    {
+        "country": "Argentina",
+        "humanDevelopmentIndex": "0.8250",
+        "pop2022": "45510.3180"
+    },
+    {
+        "country": "Croatia",
+        "humanDevelopmentIndex": "0.8310",
+        "pop2022": "4030.3580"
+    },
+    {
+        "country": "Hungary",
+        "humanDevelopmentIndex": "0.8380",
+        "pop2022": "9967.3080"
+    },
+    {
+        "country": "Chile",
+        "humanDevelopmentIndex": "0.8430",
+        "pop2022": "19603.7330"
+    },
+    {
+        "country": "Bahrain",
+        "humanDevelopmentIndex": "0.8460",
+        "pop2022": "1472.2330"
+    },
+    {
+        "country": "Latvia",
+        "humanDevelopmentIndex": "0.8470",
+        "pop2022": "1850.6510"
+    },
+    {
+        "country": "Portugal",
+        "humanDevelopmentIndex": "0.8470",
+        "pop2022": "10270.8650"
+    },
+    {
+        "country": "Brunei",
+        "humanDevelopmentIndex": "0.8530",
+        "pop2022": "449.0020"
+    },
+    {
+        "country": "Saudi Arabia",
+        "humanDevelopmentIndex": "0.8530",
+        "pop2022": "36408.8200"
+    },
+    {
+        "country": "Slovakia",
+        "humanDevelopmentIndex": "0.8550",
+        "pop2022": "5643.4530"
+    },
+    {
+        "country": "Qatar",
+        "humanDevelopmentIndex": "0.8560",
+        "pop2022": "2695.1220"
+    },
+    {
+        "country": "Andorra",
+        "humanDevelopmentIndex": "0.8580",
+        "pop2022": "79.8240"
+    },
+    {
+        "country": "Lithuania",
+        "humanDevelopmentIndex": "0.8580",
+        "pop2022": "2750.0550"
+    },
+    {
+        "country": "United Arab Emirates",
+        "humanDevelopmentIndex": "0.8630",
+        "pop2022": "9441.1290"
+    },
+    {
+        "country": "Poland",
+        "humanDevelopmentIndex": "0.8650",
+        "pop2022": "39857.1450"
+    },
+    {
+        "country": "Cyprus",
+        "humanDevelopmentIndex": "0.8690",
+        "pop2022": "1251.4880"
+    },
+    {
+        "country": "Greece",
+        "humanDevelopmentIndex": "0.8700",
+        "pop2022": "10384.9710"
+    },
+    {
+        "country": "Estonia",
+        "humanDevelopmentIndex": "0.8710",
+        "pop2022": "1326.0620"
+    },
+    {
+        "country": "Malta",
+        "humanDevelopmentIndex": "0.8780",
+        "pop2022": "533.2860"
+    },
+    {
+        "country": "Italy",
+        "humanDevelopmentIndex": "0.8800",
+        "pop2022": "59037.4740"
+    },
+    {
+        "country": "Czech Republic",
+        "humanDevelopmentIndex": "0.8880",
+        "pop2022": "10493.9860"
+    },
+    {
+        "country": "Spain",
+        "humanDevelopmentIndex": "0.8910",
+        "pop2022": "47558.6300"
+    },
+    {
+        "country": "Slovenia",
+        "humanDevelopmentIndex": "0.8960",
+        "pop2022": "2119.8440"
+    },
+    {
+        "country": "France",
+        "humanDevelopmentIndex": "0.9010",
+        "pop2022": "64626.6280"
+    },
+    {
+        "country": "Israel",
+        "humanDevelopmentIndex": "0.9030",
+        "pop2022": "9038.3090"
+    },
+    {
+        "country": "South Korea",
+        "humanDevelopmentIndex": "0.9030",
+        "pop2022": "51815.8100"
+    },
+    {
+        "country": "Luxembourg",
+        "humanDevelopmentIndex": "0.9040",
+        "pop2022": "647.5990"
+    },
+    {
+        "country": "Austria",
+        "humanDevelopmentIndex": "0.9080",
+        "pop2022": "8939.6170"
+    },
+    {
+        "country": "Japan",
+        "humanDevelopmentIndex": "0.9090",
+        "pop2022": "123951.6920"
+    },
+    {
+        "country": "Liechtenstein",
+        "humanDevelopmentIndex": "0.9160",
+        "pop2022": "39.3270"
+    },
+    {
+        "country": "Belgium",
+        "humanDevelopmentIndex": "0.9160",
+        "pop2022": "11655.9300"
+    },
+    {
+        "country": "New Zealand",
+        "humanDevelopmentIndex": "0.9170",
+        "pop2022": "5185.2880"
+    },
+    {
+        "country": "Finland",
+        "humanDevelopmentIndex": "0.9200",
+        "pop2022": "5540.7450"
+    },
+    {
+        "country": "United Kingdom",
+        "humanDevelopmentIndex": "0.9220",
+        "pop2022": "67508.9360"
+    },
+    {
+        "country": "United States",
+        "humanDevelopmentIndex": "0.9240",
+        "pop2022": "338289.8570"
+    },
+    {
+        "country": "Canada",
+        "humanDevelopmentIndex": "0.9260",
+        "pop2022": "38454.3270"
+    },
+    {
+        "country": "Denmark",
+        "humanDevelopmentIndex": "0.9290",
+        "pop2022": "5882.2610"
+    },
+    {
+        "country": "Netherlands",
+        "humanDevelopmentIndex": "0.9310",
+        "pop2022": "17564.0140"
+    },
+    {
+        "country": "Singapore",
+        "humanDevelopmentIndex": "0.9320",
+        "pop2022": "5975.6890"
+    },
+    {
+        "country": "Hong Kong",
+        "humanDevelopmentIndex": "0.9330",
+        "pop2022": "7488.8650"
+    },
+    {
+        "country": "Sweden",
+        "humanDevelopmentIndex": "0.9330",
+        "pop2022": "10549.3470"
+    },
+    {
+        "country": "Iceland",
+        "humanDevelopmentIndex": "0.9350",
+        "pop2022": "372.8990"
+    },
+    {
+        "country": "Germany",
+        "humanDevelopmentIndex": "0.9360",
+        "pop2022": "83369.8430"
+    },
+    {
+        "country": "Ireland",
+        "humanDevelopmentIndex": "0.9380",
+        "pop2022": "5023.1090"
+    },
+    {
+        "country": "Australia",
+        "humanDevelopmentIndex": "0.9390",
+        "pop2022": "26177.4130"
+    },
+    {
+        "country": "Switzerland",
+        "humanDevelopmentIndex": "0.9440",
+        "pop2022": "8740.4720"
+    },
+    {
+        "country": "Norway",
+        "humanDevelopmentIndex": "0.9530",
+        "pop2022": "5434.3190"
+    }
+]
